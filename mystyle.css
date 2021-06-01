@@ -1,0 +1,33 @@
+.main, .main-1, .main-2, .main-3{
+    padding: 5%;
+    width: 75%;
+    align-self: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.container-1, .container-2, .container-3{
+    margin-top:0 auto;    
+    align-self: center;
+}
+.result1{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.flex-box-container, .flex-box-container-1, .flex-box-container-2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.flex-box-container img {
+    margin: 10px;
+    height: 200px;
+    width: 200px;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.7);
+}
+.flex-box-container-1 img {
+    height: 200px;
+    width: 200px;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.7);
+}
